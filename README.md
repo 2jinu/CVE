@@ -10,6 +10,6 @@ CVE PoC Repository
 | LPE   | Windows  | |
 | LPE   | Linux    | 1 |
 | LPE   | App      | |
-| DoS   | Windows  | |
+| DoS   | Windows  | 1 |
 | DoS   | Linux    | |
 | DoS   | App      | |
