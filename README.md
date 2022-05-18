@@ -4,7 +4,7 @@ CVE PoC Repository
 
 | Type  | Platform | Count |
 | :---: | :---:    | :---: |
-| RCE   | Windows  | |
+| RCE   | Windows  | 1 |
 | RCE   | Linux    | 1 |
 | RCE   | App      | |
 | LPE   | Windows  | |
